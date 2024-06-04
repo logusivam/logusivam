@@ -16,11 +16,11 @@
 
 - 🌱 I’m currently learning **nginx, go, coffeescript etc**
 
-- 👨‍💻 All of my projects are available at [https://github.com/LOGUSIVAM](https://github.com/LOGUSIVAM)
+- 👨‍💻 All of my projects are available at [KEYLESS LOCKER](https://github.com/LOGUSIVAM)
 
 - 💬 Ask me about **Frontend and Backend**
 
-- 📫 How to reach me **logusivam26@gmail.com**
+- 📫 How to reach me []**logusivam26@gmail.com** <a href="https://linkedin.com/in/loganathan26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="loganathan26" height="15" width="20" /></a>
 
 - ⚡ Fun fact **I once built a fully functional web app in a single weekend!**
 
@@ -206,9 +206,20 @@
 </div>
 <br>
 <br>
-<div align="center">
-  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=logusivam&show_icons=true&theme=dracula&locale=en" alt="logusivam" /></p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=logusivam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div >
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=logusivam&show_icons=true&theme=dracula"> &nbsp;
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=logusivam&layout=compact&theme=dracula" />
+
+<br>
+<br>
+
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=logusivam&theme=dracula"> &nbsp;
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=logusivam&theme=dracula" />
 </div>
+
+<br>
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=logusivam&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
 <br clear="both">
 <img src="https://raw.githubusercontent.com/logusivam/logusivam/output/snake.svg" alt="Snake animation" />
