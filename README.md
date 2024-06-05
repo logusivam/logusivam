@@ -198,7 +198,7 @@
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  /></code>
-  
+  <img width="12" />
   <code><img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  /></code>
@@ -208,13 +208,18 @@
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  /></code>
 </div>
 
+
+## Some Explored Skills
+ 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Welcome to Logusivam Academy: Unleash Your Tech Superpowers! 🚀](https://ytcards.demolab.com/?id=4cq7l_DDJuI&title=Welcome+to+Logusivam+Academy%3A+Unleash+Your+Tech+Superpowers%21+%F0%9F%9A%80&lang=en&timestamp=1716984007&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Welcome to Logusivam Academy: Unleash Your Tech Superpowers! 🚀")](https://www.youtube.com/watch?v=4cq7l_DDJuI)
-[![WEB11.CREATING A LOADER ANIMATION USING PURE CSS - WEB TUTORIAL](https://ytcards.demolab.com/?id=yXv_FviFiBg&title=WEB11.CREATING+A+LOADER+ANIMATION+USING+PURE+CSS+-+WEB+TUTORIAL&lang=en&timestamp=1692536410&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "WEB11.CREATING A LOADER ANIMATION USING PURE CSS - WEB TUTORIAL")](https://www.youtube.com/watch?v=yXv_FviFiBg)
-[![WEB10.CREATING DRAWING WEB APP USING HTML-CSS-JS DRAWING app web tutorial](https://ytcards.demolab.com/?id=kYUjbiqFCxo&title=WEB10.CREATING+DRAWING+WEB+APP+USING+HTML-CSS-JS+DRAWING+app+web+tutorial&lang=en&timestamp=1692152726&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "WEB10.CREATING DRAWING WEB APP USING HTML-CSS-JS DRAWING app web tutorial")](https://www.youtube.com/watch?v=kYUjbiqFCxo)
-[![WEB9.Matrix rain effect using javascript and CSS - web design](https://ytcards.demolab.com/?id=Os5ObuWjoOE&title=WEB9.Matrix+rain+effect+using+javascript+and+CSS+-+web+design&lang=en&timestamp=1692028508&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "WEB9.Matrix rain effect using javascript and CSS - web design")](https://www.youtube.com/watch?v=Os5ObuWjoOE)
-[![WEB8.SOAP BUBBLES USING PURE CSS - WEB TUTORIAL - WEB DESIGNING](https://ytcards.demolab.com/?id=XfC4hkr5JRE&title=WEB8.SOAP+BUBBLES+USING+PURE+CSS+-+WEB+TUTORIAL+-+WEB+DESIGNING&lang=en&timestamp=1683037783&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "WEB8.SOAP BUBBLES USING PURE CSS - WEB TUTORIAL - WEB DESIGNING")](https://www.youtube.com/watch?v=XfC4hkr5JRE)
-[![WEB7.SMILE FACE USING HTML-CSS WEB TUTORIAL](https://ytcards.demolab.com/?id=y2Ci2iykvN8&title=WEB7.SMILE+FACE+USING+HTML-CSS+WEB+TUTORIAL&lang=en&timestamp=1682335824&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "WEB7.SMILE FACE USING HTML-CSS WEB TUTORIAL")](https://www.youtube.com/watch?v=y2Ci2iykvN8)
+[![WEB4.HEART MAIL USING HTML AND CSS - CSS TUTORIAL](https://ytcards.demolab.com/?id=tGgEHk4DggY&title=WEB4.HEART+MAIL+USING+HTML+AND+CSS+-+CSS+TUTORIAL&lang=en&timestamp=1677628800&background_color=%230d1117&title_color=%23FF6E96&stats_color=%2379DAFA&max_title_lines=1&width=250&border_radius=5 "WEB4.HEART MAIL USING HTML AND CSS - CSS TUTORIAL")](https://youtu.be/tGgEHk4DggY) &nbsp;&nbsp;
+[![WEB11.CREATING A LOADER ANIMATION USING PURE CSS - WEB TUTORIAL](https://ytcards.demolab.com/?id=yXv_FviFiBg&title=WEB11.CREATING+A+LOADER+ANIMATION+USING+PURE+CSS+-+WEB+TUTORIAL&lang=en&timestamp=1692536410&background_color=%230d1117&title_color=%23FF6E96&stats_color=%2379DAFA&max_title_lines=1&width=250&border_radius=5 "WEB11.CREATING A LOADER ANIMATION USING PURE CSS - WEB TUTORIAL")](https://www.youtube.com/watch?v=yXv_FviFiBg) &nbsp;&nbsp;
+[![WEB10.CREATING DRAWING WEB APP USING HTML-CSS-JS DRAWING app web tutorial](https://ytcards.demolab.com/?id=kYUjbiqFCxo&title=WEB10.CREATING+DRAWING+WEB+APP+USING+HTML-CSS-JS+DRAWING+app+web+tutorial&lang=en&timestamp=1692152726&background_color=%230d1117&title_color=%23FF6E96&stats_color=%2379DAFA&max_title_lines=1&width=250&border_radius=5 "WEB10.CREATING DRAWING WEB APP USING HTML-CSS-JS DRAWING app web tutorial")](https://www.youtube.com/watch?v=kYUjbiqFCxo)
+[![WEB9.Matrix rain effect using javascript and CSS - web design](https://ytcards.demolab.com/?id=Os5ObuWjoOE&title=WEB9.Matrix+rain+effect+using+javascript+and+CSS+-+web+design&lang=en&timestamp=1692028508&background_color=%230d1117&title_color=%23FF6E96&stats_color=%2379DAFA&max_title_lines=1&width=250&border_radius=5 "WEB9.Matrix rain effect using javascript and CSS - web design")](https://www.youtube.com/watch?v=Os5ObuWjoOE) &nbsp;&nbsp;
+[![WEB8.SOAP BUBBLES USING PURE CSS - WEB TUTORIAL - WEB DESIGNING](https://ytcards.demolab.com/?id=XfC4hkr5JRE&title=WEB8.SOAP+BUBBLES+USING+PURE+CSS+-+WEB+TUTORIAL+-+WEB+DESIGNING&lang=en&timestamp=1683037783&background_color=%230d1117&title_color=%23FF6E96&stats_color=%2379DAFA&max_title_lines=1&width=250&border_radius=5 "WEB8.SOAP BUBBLES USING PURE CSS - WEB TUTORIAL - WEB DESIGNING")](https://www.youtube.com/watch?v=XfC4hkr5JRE) &nbsp;&nbsp;
+[![WEB7.SMILE FACE USING HTML-CSS WEB TUTORIAL](https://ytcards.demolab.com/?id=y2Ci2iykvN8&title=WEB7.SMILE+FACE+USING+HTML-CSS+WEB+TUTORIAL&lang=en&timestamp=1682335824&background_color=%230d1117&title_color=%23FF6E96&stats_color=%2379DAFA&max_title_lines=1&width=250&border_radius=5 "WEB7.SMILE FACE USING HTML-CSS WEB TUTORIAL")](https://www.youtube.com/watch?v=y2Ci2iykvN8) 
+[![WEB3.NAME IN HEART DESIGN - USING HTML AND PURE CSS - WEB DESIGN](https://ytcards.demolab.com/?id=UEJNqRRIB5g&title=WEB3.NAME+IN+HEART+DESIGN+-+USING+HTML+AND+PURE+CSS+-+WEB+DESIGN&lang=en&timestamp=1677542400&background_color=%230d1117&title_color=%23FF6E96&stats_color=%2379DAFA&max_title_lines=1&width=250&border_radius=5 "WEB3.NAME IN HEART DESIGN - USING HTML AND PURE CSS - WEB DESIGN")](https://youtu.be/UEJNqRRIB5g) &nbsp;&nbsp;
+
 <!-- END YOUTUBE-CARDS -->
 
 
