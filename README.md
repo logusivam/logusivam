@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **nginx, go, coffeescript etc**
 
-- 👨‍💻 All of my projects are available at [KEYLESS LOCKER](https://github.com/LOGUSIVAM)
+- 👨‍💻 All of my projects are available at [KEYLESS LOCKER](https://github.com/logusivam?tab=repositories)
 
 - 💬 Ask me about **Frontend and Backend**
 
