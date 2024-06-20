@@ -6,7 +6,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=logusivam.logusivam&left_color=royalblue&right_color=black"  />
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=logusivam" alt="logusivam" /></a> </p>-->
-
 <!--<p align="left"> <a href="https://twitter.com/logusivam26" target="blank"><img src="https://img.shields.io/twitter/follow/logusivam26?logo=twitter&style=for-the-badge" alt="logusivam26" /></a> </p>-->
 ## About
 
