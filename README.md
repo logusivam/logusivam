@@ -293,6 +293,23 @@
 ## My Rewards
 [![Trophies](https://github-profile-trophy.vercel.app/?username=logusivam&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!-- Summary Section Here -->
+
+## 💳 Github Profile Summary Card
+
+<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-logusivam&style=flat-square&color=22CCB2">
+<hr>
+<br>
+
+<div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=logusivam&theme=2077"  display=block width=100% height=auto  alt="1" >
+</div>
+
+
 ## Feeding... 
 <img src="https://raw.githubusercontent.com/logusivam/logusivam/output/snake.svg" alt="Snake animation" />
 
