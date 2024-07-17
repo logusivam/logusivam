@@ -1,7 +1,31 @@
 ![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/106108501/447ebbb1-ea8c-4a8c-b0be-0548902f3967)
 
-<h1 align="center">Hi 👋, I'm Loganthan G P <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<!-- Greet Line Comes Here typing animation-->
+<p align="center">
+<a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=FFC83D&size=22&center=true&lines=Hello,+World+👋;Welcome+to+My+Profile+💻;Happy+to+See+You+Here+😀;Feel+Free+to+Look+Around+✌;Reach+Me+Out+If+You+Need+Me+🎨🙌;Have+a+Great+Day+🌞"></a>
+</p>
+
+<!-- Coloured Line -->
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Loganthan G P <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+
 <h3 align="center">Aspiring Full Stack Developer from India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+
+<!-- typing animatinon -->
+<p align="center">
+  <a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;Full%20Stack%20Developer;Graphics%20Designer;MERN%20Developer;Python%20Developer;Web%20Developer;Backend%20Developer&font=Pacifico&center=true&width=650&height=120&color=FFC83D&vCenter=true&size=45%22"></a>
+</p>
+
+<!-- Coloured Line -->
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=logusivam.logusivam&left_color=royalblue&right_color=black"  />
 
@@ -23,6 +47,17 @@
 
 - ⚡ Fun fact **I once built a fully functional web app in a single weekend!**
 
+<!-- Coloured Line -->
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+<!-- Random Joke Section Here -->
+<div align="center"> 
+<i>Random dev joke for you!</i></br></br>
+<img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
+</div>
+
 ## Connect with me:
 
 <img align="right" height="50" src="https://lordicon.com/icons/wired/flat/456-handshake-deal.gif"  />
@@ -38,7 +73,18 @@
 <a href="https://www.leetcode.com/logusivam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="logusivam" height="30" width="40" /></a>
 </p>
 
-## Languages and Tools:
+<!-- Coloured Line -->
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+## 🛠 Languages and Tools:
+
+<!-- Vector Tool Gif -->
+<p align='center'>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<!-- Vector Tool Gif Ends -->
+
 <div align="left">
  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></code>
   <img width="12" />
@@ -207,6 +253,11 @@
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  /></code>
 </div>
 
+<!-- Coloured Line -->
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
 ## 💻 Some Explored Skills
  
 <!-- BEGIN YOUTUBE-CARDS -->
@@ -220,16 +271,24 @@
 
 
 ## My Journey
-<div align="center">
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=logusivam&show_icons=true&theme=dracula"> &nbsp; 
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=logusivam&layout=compact&theme=dracula" /> 
 
-<br>
-<br>
+<hr>
 
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=logusivam&theme=dracula"> &nbsp;
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=logusivam&theme=dracula" />
-</div>
+|  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=logusivam&show_icons=true&theme=dracula"> &nbsp;            |   <img width="440px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=logusivam&layout=compact&theme=dracula" />         |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+|  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=logusivam&theme=dracula"> &nbsp;                 |    <img width="440px" src="https://github-readme-streak-stats.herokuapp.com/?user=logusivam&theme=dracula" />              |
+
+<hr>
+
+<p align="center">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=logusivam&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
+</p>
+
+<!-- Coloured Line -->
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
 
 ## My Rewards
 [![Trophies](https://github-profile-trophy.vercel.app/?username=logusivam&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
