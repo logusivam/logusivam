@@ -32,7 +32,7 @@
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=logusivam" alt="logusivam" /></a> </p>-->
 <!--<p align="left"> <a href="https://twitter.com/logusivam26" target="blank"><img src="https://img.shields.io/twitter/follow/logusivam26?logo=twitter&style=for-the-badge" alt="logusivam26" /></a> </p>-->
 
-## About
+## <img src = "https://github.com/user-attachments/assets/7e480027-9c68-4dd8-9fb9-9a5001d0a1a0" width = 50px> *About Me*
 <img align="right" height="150" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  />
 
 - 🔭 I’m currently working on **100 days of code challenge**
@@ -58,7 +58,7 @@
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
 </div>
 
-## Connect with me:
+## 🤞 Connect with me:
 
 <img align="right" height="50" src="https://lordicon.com/icons/wired/flat/456-handshake-deal.gif"  />
 <p align="left">
@@ -275,7 +275,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-## My Journey
+## 🏃‍♂️‍➡️My Journey
 
 <hr>
 
