@@ -298,7 +298,6 @@
 
 ## 🏆 My Rewards
 [![Trophies](https://github-profile-trophy.vercel.app/?username=logusivam&theme=dracula&margin-w=4&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
-![](https://github-profile-trophy.vercel.app/?username=logusivam&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 
