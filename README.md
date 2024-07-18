@@ -26,13 +26,13 @@
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
-
+<!--  viditor badge
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=logusivam.logusivam&left_color=royalblue&right_color=black"  />
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=logusivam" alt="logusivam" /></a> </p>-->
 <!--<p align="left"> <a href="https://twitter.com/logusivam26" target="blank"><img src="https://img.shields.io/twitter/follow/logusivam26?logo=twitter&style=for-the-badge" alt="logusivam26" /></a> </p>-->
-## About
 
+## About
 <img align="right" height="150" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  />
 
 - 🔭 I’m currently working on **100 days of code challenge**
@@ -270,6 +270,11 @@
 <!-- END YOUTUBE-CARDS -->
 
 
+<!-- Coloured Line -->
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
 ## My Journey
 
 <hr>
@@ -289,19 +294,26 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
+<!-- Trophies Section Here -->
 
-## My Rewards
-[![Trophies](https://github-profile-trophy.vercel.app/?username=logusivam&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+## 🏆 My Rewards
+[![Trophies](https://github-profile-trophy.vercel.app/?username=logusivam&theme=dracula&margin-w=4&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=logusivam&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<!-- Coloured Line -->
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
 <!-- Summary Section Here -->
 
 ## 💳 Github Profile Summary Card
 
-<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-logusivam&style=flat-square&color=22CCB2">
+<img width="150px" align="left" src="https://visitor-badge.laobi.icu/badge?page_id=logusivam.logusivam&left_color=royalblue&right_color=black"  />
 <hr>
 <br>
 
@@ -309,6 +321,16 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=logusivam&theme=2077"  display=block width=100% height=auto  alt="1" >
 </div>
 
+<div align="center">
+         
+![banner](https://github.com/user-attachments/assets/ce8b78cb-ed49-4e06-b10f-5929970d8685)
+    
+</div>
+
+<!-- Coloured Line -->
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 ## Feeding... 
 <img src="https://raw.githubusercontent.com/logusivam/logusivam/output/snake.svg" alt="Snake animation" />
