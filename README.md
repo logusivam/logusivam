@@ -279,9 +279,10 @@
 
 <hr>
 
-|  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=logusivam&show_icons=true&theme=dracula"> &nbsp;            |   <img width="440px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=logusivam&layout=compact&theme=dracula" />         |
+| <h4>Overall Stats </h4> <img width="440px" src="https://github-readme-stats.vercel.app/api?username=logusivam&show_icons=true&theme=dracula"> &nbsp;            | <h4>Top Languages </h4>  <img width="440px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=logusivam&layout=compact&theme=dracula" />         |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-|  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=logusivam&theme=dracula"> &nbsp;                 |    <img width="440px" src="https://github-readme-streak-stats.herokuapp.com/?user=logusivam&theme=dracula" />              |
+| <h4 align="center">Contribution Graph </h4> <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=logusivam&theme=dracula"> &nbsp;                 |  <h4 align="center">Streak </h4>  <img width="440px" src="https://github-readme-streak-stats.herokuapp.com/?user=logusivam&theme=dracula" />              |  
+| <h4 align="center">Commits </h4> <img width="440px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=logusivam&theme=dracula&utcOffset=8" />    | <h4 align="center">🔝 Top Contributed Repo</h4> <img width="440" src="https://github-contributor-stats.vercel.app/api?username=logusivam&limit=5&theme=dracula&combine_all_yearly_contributions=true" /> |
 
 <hr>
 
@@ -337,4 +338,10 @@
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
+
+<div align="center" >
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Impact&size=30&pause=500&color=FFC83D&vCenter=true&width=180&height=70&lines=<KeepCoding>")](https://git.io/typing-svg)
+ 
+</div>
 
