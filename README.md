@@ -19,7 +19,7 @@
 
 <!-- typing animatinon -->
 <p align="center">
-  <a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;Full%20Stack%20Developer;Graphics%20Designer;MERN%20Developer;Python%20Developer;Web%20Developer;Backend%20Developer&font=Pacifico&center=true&width=650&height=120&color=FFC83D&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;Full%20Stack%20Developer;Graphics%20Designer;MERN%20%20Stack%20Developer;Python%20Developer;Web%20Developer;Backend%20Developer&font=Pacifico&center=true&width=650&height=120&color=FFC83D&vCenter=true&size=45%22"></a>
 </p>
 
 <!-- Coloured Line -->
