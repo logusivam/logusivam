@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/106108501/447ebbb1-ea8c-4a8c-b0be-0548902f3967)
+![MasterHead](https://github.com/user-attachments/assets/02fb67ec-ca89-4153-97b5-16820b6df34f)
 
 <!-- Greet Line Comes Here typing animation-->
 <p align="center">
@@ -33,17 +33,16 @@
 <!--<p align="left"> <a href="https://twitter.com/logusivam26" target="blank"><img src="https://img.shields.io/twitter/follow/logusivam26?logo=twitter&style=for-the-badge" alt="logusivam26" /></a> </p>-->
 
 ## <img src = "https://github.com/user-attachments/assets/7e480027-9c68-4dd8-9fb9-9a5001d0a1a0" width = 50px> *About Me*
-<img align="right" height="150" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  />
 
-- 🔭 I’m currently working on **100 days of code challenge**
+- 🔭 I’m currently working on **100 days of react interview challenge**
 
-- 🌱 I’m currently learning **nginx, go, coffeescript etc**
+- 🌱 I’m currently learning **React js, Next js, jenkins etc**
 
-- 👨‍💻 All of my projects are available at [KEYLESS LOCKER](https://github.com/logusivam?tab=repositories)
+- 👨‍💻 All of my projects are available at [KEYLESS LOCKER](https://devbridge.onrender.com)
 
 - 💬 Ask me about **Frontend and Backend**
 
-- 📫 How to reach me  <!--linkedin--> <a href="https://linkedin.com/in/loganathan26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="loganathan26" height="15" width="20" /></a> <!--gmail--> <a href="mailto:LOGUSIVAM26@GMAIL.COM" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="20" height="15" alt="gmail logo"  /></a>
+- 📫 How to reach me  <!--linkedin--> <a href="https://linkedin.com/in/loganathan26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="loganathan26" height="15" width="20" /></a> <!--gmail--> <a href="mailto:LOGUSIVAM26@GMAIL.COM" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="20" height="15" alt="gmail logo"  /></a> [click here](https://devbridge.onrender.com)
 
 - ⚡ Fun fact **I once built a fully functional web app in a single weekend!**
 
