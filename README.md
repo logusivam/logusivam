@@ -1,346 +1,198 @@
-![MasterHead](https://github.com/user-attachments/assets/02fb67ec-ca89-4153-97b5-16820b6df34f)
+<div align="center">
 
-<!-- Greet Line Comes Here typing animation-->
-<p align="center">
-<a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=FFC83D&size=22&center=true&lines=Hello,+World+👋;Welcome+to+My+Profile+💻;Happy+to+See+You+Here+😀;Feel+Free+to+Look+Around+✌;Reach+Me+Out+If+You+Need+Me+🎨🙌;Have+a+Great+Day+🌞"></a>
-</p>
+# 👋 Welcome to Loganathan G P's Profile
 
-<!-- Coloured Line -->
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;Python+%26+React+Enthusiast;UI%2FUX+Designer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" />, I'm Loganthan G P <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<img src="https://komarev.com/ghpvc/?username=logusivam&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-<h3 align="center">Aspiring Full Stack Developer from India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
-
-<!-- typing animatinon -->
-<p align="center">
-  <a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;Full%20Stack%20Developer;Graphics%20Designer;MERN%20%20Stack%20Developer;Python%20Developer;Web%20Developer;Backend%20Developer&font=Pacifico&center=true&width=650&height=120&color=FFC83D&vCenter=true&size=45%22"></a>
-</p>
-
-<!-- Coloured Line -->
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-<!--  viditor badge
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=logusivam.logusivam&left_color=royalblue&right_color=black"  />
-
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=logusivam" alt="logusivam" /></a> </p>-->
-<!--<p align="left"> <a href="https://twitter.com/logusivam26" target="blank"><img src="https://img.shields.io/twitter/follow/logusivam26?logo=twitter&style=for-the-badge" alt="logusivam26" /></a> </p>-->
-
-## <img src = "https://github.com/user-attachments/assets/7e480027-9c68-4dd8-9fb9-9a5001d0a1a0" width = 50px> *About Me*
-
-- 🔭 I’m currently working on **100 days of react interview challenge**
-
-- 🌱 I’m currently learning **React js, Next js, jenkins etc**
-
-- 👨‍💻 All of my projects are available at [KEYLESS LOCKER](https://devbridge.onrender.com)
-
-- 💬 Ask me about **Frontend and Backend**
-
-- 📫 How to reach me  <!--linkedin--> <a href="https://linkedin.com/in/loganathan26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="loganathan26" height="15" width="20" /></a> <!--gmail--> <a href="mailto:LOGUSIVAM26@GMAIL.COM" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="20" height="15" alt="gmail logo"  /></a> [click here](https://devbridge.onrender.com)
-
-- ⚡ Fun fact **I once built a fully functional web app in a single weekend!**
-
-<!-- Coloured Line -->
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-<!-- Random Joke Section Here -->
-<div align="center"> 
-<i>Random dev joke for you!</i></br></br>
-<img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
 </div>
 
-## 🤞 Connect with me:
+---
 
-<img align="right" height="50" src="https://lordicon.com/icons/wired/flat/456-handshake-deal.gif"  />
-<p align="left">
+## 💼 Professional Summary
 
-<a href="https://twitter.com/logusivam26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="logusivam26" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/loganathan26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="loganathan26" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100008730223597" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="loga nathan" height="30" width="40" /></a>
-<a href="https://instagram.com/logusivam26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="logusivam26" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@Logusivamacademy26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="logusivamacademy26" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/logusivam26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="logusivam26" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/logusivam26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="logusivam26" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/logusivam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="logusivam" height="30" width="40" /></a>
-</p>
+**Aspiring Full Stack Developer** with a passion for creating efficient, scalable web applications. Experienced in modern JavaScript frameworks, backend technologies, and cloud services. Currently focusing on React ecosystem and DevOps practices.
 
-<!-- Coloured Line -->
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
+```javascript
+const loganathan = {
+    location: "Chennai, Tamil Nadu, India",
+    role: "Full Stack Developer",
+    currentFocus: ["React.js", "Next.js", "Jenkins", "System Design"],
+    recentProject: "100 Days of React Interview Challenge",
+    portfolio: "https://devbridge.onrender.com",
+    funFact: "Built a fully functional web app in a single weekend! ⚡"
+};
+```
 
-## 🛠 Languages and Tools:
+---
 
-<!-- Vector Tool Gif -->
-<p align='center'>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<!-- Vector Tool Gif Ends -->
+## 🎯 Current Focus
 
-<div align="left">
- <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="30" alt="babel logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojurescript/clojurescript-original.svg" height="30" alt="clojurescript logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="30" alt="composer logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  /></code>
-  <img width="12" />
-  <code><img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/doctrine/doctrine-original.svg" height="30" alt="doctrine logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  /></code>
-  <img width="12" />
-  <code><img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  /></code>
-  <img width="12" />
-  <code><img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  /></code>
-  <img width="12" />
-  <code><img src="https://skillicons.dev/icons?i=heroku" height="30" alt="heroku logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  /></code>
-  <img width="12" />
-  <code><img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  /></code>
-  <img width="12" />
-  <code><img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  /></code>
-  <img width="12" />
-  <code><img src="https://skillicons.dev/icons?i=latex" height="30" alt="latex logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  /></code>
-  <img width="12" />
-  <code><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openal/openal-original.svg" height="30" alt="openal logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.simpleicons.org/oracle/F80000" height="30" alt="oracle logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="photoshop logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="30" alt="phpstorm logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="ruby logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="30" alt="scala logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  /></code>
-  <img width="12" />
-  <code><img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="30" alt="tomcat logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height="30" alt="unix logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="30" alt="webflow logo"  /></code>
-  <img width="12" />
-  <code><img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  /></code>
-  <img width="12" />
-  <code><img src="https://skillicons.dev/icons?i=xd" height="30" alt="xd logo"  /></code>
-  <img width="12" />
-  <code><img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  /></code>
-  <img width="12" />
-  <code><img src="https://skillicons.dev/icons?i=atom" height="30" alt="atom logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="30" alt="nuxtjs logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" height="30" alt="perl logo"  /></code>
-  <img width="12" />
-  <code><img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="30" alt="socketio logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" alt="webpack logo"  /></code>
-  <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  /></code>
-</div>
+- 🚀 **Working on:** 100 Days of React Interview Challenge
+- 📚 **Learning:** React.js, Next.js, Jenkins, Advanced System Design
+- 💡 **Project Highlight:** [KEYLESS LOCKER](https://devbridge.onrender.com)
+- 🤝 **Open to:** Collaborate on MERN Stack & Python projects
+- 💬 **Ask me about:** Frontend Development, Backend APIs, UI/UX Design
 
-<!-- Coloured Line -->
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
+---
 
-## 💻 Some Explored Skills
- 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Exclusive Loot Offer #deals  on #flipkart  & #amazon #bigbilliondays2024 #greatindianfestivalsale !](https://ytcards.demolab.com/?id=rjCJic-HA7I&title=Exclusive+Loot+Offer+%23deals++on+%23flipkart++%26+%23amazon+%23bigbilliondays2024+%23greatindianfestivalsale+%21&lang=en&timestamp=1726916071&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Exclusive Loot Offer #deals  on #flipkart  & #amazon #bigbilliondays2024 #greatindianfestivalsale !")](https://www.youtube.com/shorts/rjCJic-HA7I)
-[![Daily CSS Quiz: Which Property Controls the Flow of Text on a Web Page?#dailychallenge #coding](https://ytcards.demolab.com/?id=X7HEnMJbZ1k&title=Daily+CSS+Quiz%3A+Which+Property+Controls+the+Flow+of+Text+on+a+Web+Page%3F%23dailychallenge+%23coding&lang=en&timestamp=1726137903&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Daily CSS Quiz: Which Property Controls the Flow of Text on a Web Page?#dailychallenge #coding")](https://www.youtube.com/shorts/X7HEnMJbZ1k)
-[![Daily CSS Quiz: How Can You Make a List Without Bullets? 🧠💻 #dailychallenge #codingchallenge](https://ytcards.demolab.com/?id=q7jfJ8QclsE&title=Daily+CSS+Quiz%3A+How+Can+You+Make+a+List+Without+Bullets%3F+%F0%9F%A7%A0%F0%9F%92%BB+%23dailychallenge+%23codingchallenge&lang=en&timestamp=1726055103&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Daily CSS Quiz: How Can You Make a List Without Bullets? 🧠💻 #dailychallenge #codingchallenge")](https://www.youtube.com/shorts/q7jfJ8QclsE)
-[![Daily CSS Quiz: Which Property Changes the Font of an Element? 🧠💻#dailychallenge #codingchallenge](https://ytcards.demolab.com/?id=9t-lTBBpI1U&title=Daily+CSS+Quiz%3A+Which+Property+Changes+the+Font+of+an+Element%3F+%F0%9F%A7%A0%F0%9F%92%BB%23dailychallenge+%23codingchallenge&lang=en&timestamp=1725968700&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Daily CSS Quiz: Which Property Changes the Font of an Element? 🧠💻#dailychallenge #codingchallenge")](https://www.youtube.com/shorts/9t-lTBBpI1U)
-[![Stunning Card UI #hovereffects  with Dynamic #content  Reveal | #html  & #css #tutorial #coding](https://ytcards.demolab.com/?id=lZfB8q8280g&title=Stunning+Card+UI+%23hovereffects++with+Dynamic+%23content++Reveal+%7C+%23html++%26+%23css+%23tutorial+%23coding&lang=en&timestamp=1725887828&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Stunning Card UI #hovereffects  with Dynamic #content  Reveal | #html  & #css #tutorial #coding")](https://www.youtube.com/shorts/lZfB8q8280g)
-[![Daily CSS Quiz: What Is the Default Value of the Position Property?#codingchallenge #dailychallenge](https://ytcards.demolab.com/?id=qT_qOuhpeCQ&title=Daily+CSS+Quiz%3A+What+Is+the+Default+Value+of+the+Position+Property%3F%23codingchallenge+%23dailychallenge&lang=en&timestamp=1725881434&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Daily CSS Quiz: What Is the Default Value of the Position Property?#codingchallenge #dailychallenge")](https://www.youtube.com/shorts/qT_qOuhpeCQ)
-<!-- END YOUTUBE-CARDS -->
+## 🛠️ Technology Stack
 
+### **Frontend Development**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-<!-- Coloured Line -->
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
+### **Backend Development**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-## 🏃‍♂️‍➡️ My Journey
+### **Database & Cloud**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-<hr>
+### **DevOps & Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-| <h4>Overall Stats </h4> <img width="440px" src="https://github-readme-stats.vercel.app/api?username=logusivam&show_icons=true&theme=dracula"> &nbsp;            | <h4>Top Languages </h4>  <img width="440px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=logusivam&layout=compact&theme=dracula" />         |
-| ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| <h4 align="center">Contribution Graph </h4> <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=logusivam&theme=dracula"> &nbsp;                 |  <h4 align="center">Streak </h4>  <img width="440px" src="https://github-readme-streak-stats.herokuapp.com/?user=logusivam&theme=dracula" />              |  
-| <h4 align="center">Commits </h4> <img width="440px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=logusivam&theme=dracula&utcOffset=8" />    | <h4 align="center">🔝 Top Contributed Repo</h4> <img width="440" src="https://github-contributor-stats.vercel.app/api?username=logusivam&limit=5&theme=dracula&combine_all_yearly_contributions=true" /> |
+### **Design & Creative**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
-<hr>
+---
 
-<p align="center">
-<img src="https://github-widgetbox.vercel.app/api/profile?username=logusivam&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
-</p>
+## 📊 GitHub Analytics
 
-<!-- Coloured Line -->
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-<!-- Trophies Section Here -->
-
-## 🏆 My Rewards
-[![Trophies](https://github-profile-trophy.vercel.app/?username=logusivam&theme=dracula&margin-w=4&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Coloured Line -->
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-<!-- Summary Section Here -->
-
-## 💳 Github Profile Summary Card
-
-<img width="150px" align="left" src="https://visitor-badge.laobi.icu/badge?page_id=logusivam.logusivam&left_color=royalblue&right_color=black"  />
-<hr>
-<br>
-
-<div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=logusivam&theme=2077"  display=block width=100% height=auto  alt="1" >
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=logusivam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=logusivam&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-         
-![banner](https://github.com/user-attachments/assets/ce8b78cb-ed49-4e06-b10f-5929970d8685)
-    
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=logusivam&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
-<!-- Coloured Line -->
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-## 🐍 Feeding... 
-<img src="https://raw.githubusercontent.com/logusivam/logusivam/output/snake.svg" alt="Snake animation" />
-
-##
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-
-<div align="center" >
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Impact&size=30&pause=500&color=FFC83D&vCenter=true&width=180&height=70&lines=<KeepCoding>")](https://git.io/typing-svg)
- 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=logusivam&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
+---
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=logusivam&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" alt="Trophy" />
+</div>
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=logusivam&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contribution Stats" />
+</div>
+
+---
+
+## 📺 Recent YouTube Content
+
+<div align="center">
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Exclusive Loot Offer #deals  on #flipkart  & #amazon #bigbilliondays2024 #greatindianfestivalsale !](https://ytcards.demolab.com/?id=rjCJic-HA7I&title=Exclusive+Loot+Offer+%23deals++on+%23flipkart++%26+%23amazon+%23bigbilliondays2024+%23greatindianfestivalsale+%21&lang=en&timestamp=1726916071&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/shorts/rjCJic-HA7I)
+[![Daily CSS Quiz: Which Property Controls the Flow of Text on a Web Page?#dailychallenge #coding](https://ytcards.demolab.com/?id=X7HEnMJbZ1k&title=Daily+CSS+Quiz%3A+Which+Property+Controls+the+Flow+of+Text+on+a+Web+Page%3F%23dailychallenge+%23coding&lang=en&timestamp=1726137903&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/shorts/X7HEnMJbZ1k)
+[![Daily CSS Quiz: How Can You Make a List Without Bullets? 🧠💻 #dailychallenge #codingchallenge](https://ytcards.demolab.com/?id=q7jfJ8QclsE&title=Daily+CSS+Quiz%3A+How+Can+You+Make+a+List+Without+Bullets%3F+%F0%9F%A7%A0%F0%9F%92%BB+%23dailychallenge+%23codingchallenge&lang=en&timestamp=1726055103&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/shorts/q7jfJ8QclsE)
+[![Daily CSS Quiz: Which Property Changes the Font of an Element? 🧠💻#dailychallenge #codingchallenge](https://ytcards.demolab.com/?id=9t-lTBBpI1U&title=Daily+CSS+Quiz%3A+Which+Property+Changes+the+Font+of+an+Element%3F+%F0%9F%A7%A0%F0%9F%92%BB%23dailychallenge+%23codingchallenge&lang=en&timestamp=1725968700&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/shorts/9t-lTBBpI1U)
+[![Stunning Card UI #hovereffects  with Dynamic #content  Reveal | #html  & #css #tutorial #coding](https://ytcards.demolab.com/?id=lZfB8q8280g&title=Stunning+Card+UI+%23hovereffects++with+Dynamic+%23content++Reveal+%7C+%23html++%26+%23css+%23tutorial+%23coding&lang=en&timestamp=1725887828&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/shorts/lZfB8q8280g)
+[![Daily CSS Quiz: What Is the Default Value of the Position Property?#codingchallenge #dailychallenge](https://ytcards.demolab.com/?id=qT_qOuhpeCQ&title=Daily+CSS+Quiz%3A+What+Is+the+Default+Value+of+the+Position+Property%3F%23codingchallenge+%23dailychallenge&lang=en&timestamp=1725881434&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5)](https://www.youtube.com/shorts/qT_qOuhpeCQ)
+<!-- END YOUTUBE-CARDS -->
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/loganathan26)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:LOGUSIVAM26@GMAIL.COM)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/logusivam26)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/logusivam26)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Logusivamacademy26)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100008730223597)
+
+</div>
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/logusivam)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/logusivam26)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/logusivam26)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devbridge.onrender.com)
+
+</div>
+
+---
+
+## 💭 Developer Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=logusivam&theme=tokyonight" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=logusivam&theme=tokyonight&utcOffset=5.5" width="48%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=logusivam&theme=tokyonight" width="48%"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/logusivam/logusivam/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+### 🌟 Thanks for visiting! Let's build something amazing together! 🚀
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=%3CKeep+Coding%2F%3E;%3CKeep+Learning%2F%3E;%3CStay+Curious%2F%3E)](https://git.io/typing-svg)
+
+</div>
