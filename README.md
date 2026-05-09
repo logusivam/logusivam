@@ -20,7 +20,7 @@ const loganathan = {
     role: "Full Stack Developer",
     currentFocus: ["React.js", "Next.js", "Jenkins", "System Design"],
     recentProject: "100 Days of React Interview Challenge",
-    portfolio: "https://devbridge.onrender.com",
+    portfolio: "https://loganathan-portfolio.onrender.com",
     funFact: "Built a fully functional web app in a single weekend! ⚡"
 };
 ```
@@ -89,16 +89,20 @@ const loganathan = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=logusivam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=logusivam&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=logusivam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=logusivam&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=logusivam&theme=tokyonight" alt="GitHub Streak"/>
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=logusivam&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img width="70%" src="https://streak-stats.demolab.com/?user=logusivam&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=logusivam&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27" width="95%"/>
 </div>
 
 ---
@@ -106,11 +110,14 @@ const loganathan = {
 ## 🏆 Achievements & Recognition
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=logusivam&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=logusivam&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7&margin-w=15&margin-h=15" alt="Trophy" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=logusivam&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contribution Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=logusivam&theme=tokyonight" alt="Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=logusivam&theme=tokyonight" alt="Most Commit Language" />
 </div>
 
 ---
@@ -169,12 +176,14 @@ const loganathan = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=logusivam&theme=tokyonight" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=logusivam&theme=tokyonight" width="100%"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=logusivam&theme=tokyonight&utcOffset=5.5" width="48%"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=logusivam&theme=tokyonight" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=logusivam&theme=tokyonight&utcOffset=5.5" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=logusivam&theme=tokyonight" width="48%"/>
 </div>
 
 ---
