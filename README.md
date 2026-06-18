@@ -109,8 +109,8 @@ const loganathan = {
 
 ## 🏆 Achievements & Recognition
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=logusivam&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7&margin-w=15&margin-h=15" alt="Trophy" />
+<div align="center"> 
+  <img src="./trophy.svg" alt="Trophy" />
 </div>
 
 <br/>
