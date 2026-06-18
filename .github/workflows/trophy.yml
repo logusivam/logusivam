@@ -2,14 +2,15 @@ name: Update Trophies
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs every day at midnight
-  workflow_dispatch: # Allows you to run it manually
+    - cron: "0 0 * * *"   # daily at midnight UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
