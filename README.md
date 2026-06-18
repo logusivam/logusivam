@@ -1,45 +1,58 @@
 <div align="center">
 
-# 👋 Welcome to Loganathan G P's Profile
+# Hi, I'm Loganathan G P 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;Python+%26+React+Enthusiast;UI%2FUX+Designer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+Specialist;Building+scalable+web+apps+end-to-end;React+%2B+Node+%2B+Python;UI%2FUX+minded+%7C+DevOps+curious;Open+to+full-time+%26+collaboration)](https://git.io/typing-svg)
 
+<a href="https://linkedin.com/in/loganathan26"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:LOGUSIVAM26@GMAIL.COM"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://loganathan-portfolio.onrender.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 <img src="https://komarev.com/ghpvc/?username=logusivam&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
 
 ---
 
-## 💼 Professional Summary
+## 💼 About Me
 
-**Aspiring Full Stack Developer** with a passion for creating efficient, scalable web applications. Experienced in modern JavaScript frameworks, backend technologies, and cloud services. Currently focusing on React ecosystem and DevOps practices.
+**Full Stack Developer** specializing in the **MERN stack** — I build efficient, scalable web applications end to end, from responsive React interfaces to robust Node/Express APIs and cloud deployment. Comfortable across both the JavaScript and Python ecosystems, with a growing focus on **system design**, **CI/CD**, and **DevOps** practices (Docker, Jenkins, Kubernetes).
+
+I care about shipping clean, maintainable code and thoughtful UI — and I learn fast. I'm currently **open to full-time roles and collaboration** on MERN and Python projects.
 
 ```javascript
 const loganathan = {
-    location: "Chennai, Tamil Nadu, India",
-    role: "Full Stack Developer",
-    currentFocus: ["React.js", "Next.js", "Jenkins", "System Design"],
-    recentProject: "100 Days of React Interview Challenge",
-    portfolio: "https://loganathan-portfolio.onrender.com",
-    funFact: "Built a fully functional web app in a single weekend! ⚡"
+    location:          "Chennai, Tamil Nadu, India",
+    role:              "Full Stack Developer",
+    focus:             ["React.js", "Next.js", "Node.js", "System Design", "CI/CD"],
+    currentlyBuilding: "100 Days of React Interview Challenge",
+    portfolio:         "https://loganathan-portfolio.onrender.com",
+    openTo:            ["Full-time roles", "Freelance", "Open-source collaboration"],
+    funFact:           "Shipped a fully functional web app in a single weekend ⚡"
 };
 ```
 
 ---
 
-## 🎯 Current Focus
+## 🚀 Featured Projects
 
-- 🚀 **Working on:** 100 Days of React Interview Challenge
-- 📚 **Learning:** React.js, Next.js, Jenkins, Advanced System Design
-- 💡 **Project Highlight:** [KEYLESS LOCKER](https://devbridge.onrender.com)
-- 🤝 **Open to:** Collaborate on MERN Stack & Python projects
-- 💬 **Ask me about:** Frontend Development, Backend APIs, UI/UX Design
+> _Replace the descriptions below with one crisp sentence each — what it does + the impact/tech highlight. Recruiters scan this section first._
+
+| Project | What it does | Tech | Links |
+| :------ | :----------- | :--- | :---- |
+| **🔐 KEYLESS LOCKER** | Secure credential / password manager web app _(edit this line)_ | MERN, JWT | [Live](https://devbridge.onrender.com) · `add repo` |
+| **🌐 Developer Portfolio** | Personal portfolio showcasing projects & skills | React, CSS | [Live](https://loganathan-portfolio.onrender.com) · `add repo` |
+| **📅 100 Days of React** | Daily React + interview-prep challenge log | React, JS | `add repo` |
+
+<!--
+TIP: For each project add a public repo link. A live demo with no source code is a weaker
+signal to engineers than a clean, well-documented repo. Pin your best 6 repos on your profile.
+-->
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Tech Stack
 
-### **Frontend Development**
+### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -51,7 +64,7 @@ const loganathan = {
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-### **Backend Development**
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -60,7 +73,7 @@ const loganathan = {
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### **Database & Cloud**
+### Database & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -68,7 +81,7 @@ const loganathan = {
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-### **DevOps & Tools**
+### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -76,7 +89,7 @@ const loganathan = {
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-### **Design & Creative**
+### Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
@@ -88,54 +101,39 @@ const loganathan = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=logusivam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=logusivam&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27"/>
-</div>
-
-<br/>
+> These graphics are **generated by a GitHub Action and committed to this repo** as static SVGs — no live third-party rendering, so they never break or rate-limit. (See `.github/workflows/metrics.yml`.)
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=logusivam&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=logusivam&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27" width="95%"/>
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%"/>
 </div>
 
 ---
 
-## 🏆 Achievements & Recognition
-
-<div align="center"> 
-  <img src="./trophy.svg" alt="Trophy" />
-</div>
-
-<br/>
+## 🏆 Achievements & Trophies
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=logusivam&theme=tokyonight" alt="Stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=logusivam&theme=tokyonight" alt="Most Commit Language" />
+  <img src="./trophy.svg" alt="GitHub Trophies" width="100%"/>
 </div>
 
 ---
 
-## 📺 Recent YouTube Content
+## 🤝 Community & Open Source
 
-<div align="center">
+I don't just push my own code — I help others. I actively participate in **GitHub Discussions and issues across other repositories**, answering questions and contributing solutions.
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Exclusive Loot Offer #deals  on #flipkart  & #amazon #bigbilliondays2024 #greatindianfestivalsale !](https://ytcards.demolab.com/?id=rjCJic-HA7I&title=Exclusive+Loot+Offer+%23deals++on+%23flipkart++%26+%23amazon+%23bigbilliondays2024+%23greatindianfestivalsale+%21&lang=en&timestamp=1726916071&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Exclusive Loot Offer #deals  on #flipkart  & #amazon #bigbilliondays2024 #greatindianfestivalsale !")](https://www.youtube.com/shorts/rjCJic-HA7I)
-[![Daily CSS Quiz: Which Property Controls the Flow of Text on a Web Page?#dailychallenge #coding](https://ytcards.demolab.com/?id=X7HEnMJbZ1k&title=Daily+CSS+Quiz%3A+Which+Property+Controls+the+Flow+of+Text+on+a+Web+Page%3F%23dailychallenge+%23coding&lang=en&timestamp=1726137903&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Daily CSS Quiz: Which Property Controls the Flow of Text on a Web Page?#dailychallenge #coding")](https://www.youtube.com/shorts/X7HEnMJbZ1k)
-[![Daily CSS Quiz: How Can You Make a List Without Bullets? 🧠💻 #dailychallenge #codingchallenge](https://ytcards.demolab.com/?id=q7jfJ8QclsE&title=Daily+CSS+Quiz%3A+How+Can+You+Make+a+List+Without+Bullets%3F+%F0%9F%A7%A0%F0%9F%92%BB+%23dailychallenge+%23codingchallenge&lang=en&timestamp=1726055103&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Daily CSS Quiz: How Can You Make a List Without Bullets? 🧠💻 #dailychallenge #codingchallenge")](https://www.youtube.com/shorts/q7jfJ8QclsE)
-[![Daily CSS Quiz: Which Property Changes the Font of an Element? 🧠💻#dailychallenge #codingchallenge](https://ytcards.demolab.com/?id=9t-lTBBpI1U&title=Daily+CSS+Quiz%3A+Which+Property+Changes+the+Font+of+an+Element%3F+%F0%9F%A7%A0%F0%9F%92%BB%23dailychallenge+%23codingchallenge&lang=en&timestamp=1725968700&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Daily CSS Quiz: Which Property Changes the Font of an Element? 🧠💻#dailychallenge #codingchallenge")](https://www.youtube.com/shorts/9t-lTBBpI1U)
-[![Stunning Card UI #hovereffects  with Dynamic #content  Reveal | #html  & #css #tutorial #coding](https://ytcards.demolab.com/?id=lZfB8q8280g&title=Stunning+Card+UI+%23hovereffects++with+Dynamic+%23content++Reveal+%7C+%23html++%26+%23css+%23tutorial+%23coding&lang=en&timestamp=1725887828&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Stunning Card UI #hovereffects  with Dynamic #content  Reveal | #html  & #css #tutorial #coding")](https://www.youtube.com/shorts/lZfB8q8280g)
-[![Daily CSS Quiz: What Is the Default Value of the Position Property?#codingchallenge #dailychallenge](https://ytcards.demolab.com/?id=qT_qOuhpeCQ&title=Daily+CSS+Quiz%3A+What+Is+the+Default+Value+of+the+Position+Property%3F%23codingchallenge+%23dailychallenge&lang=en&timestamp=1725881434&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Daily CSS Quiz: What Is the Default Value of the Position Property?#codingchallenge #dailychallenge")](https://www.youtube.com/shorts/qT_qOuhpeCQ)
-<!-- END YOUTUBE-CARDS -->
+- 💬 Answered questions and joined discussions in open-source repositories
+- 🐛 Reported issues and suggested fixes
+- 🔀 Open to contributing PRs to MERN / Python projects
 
-</div>
+> _Add 2–3 direct links to your best discussion answers or merged PRs here — e.g._
+> - `[Answered: <topic>](https://github.com/<owner>/<repo>/discussions/<id>)`
+> - `[Merged PR: <title>](https://github.com/<owner>/<repo>/pull/<id>)`
+
+<!--
+This is your point #5. A direct link to a thoughtful answer in a popular repo's
+Discussions is one of the most underrated recruiter signals — it proves communication
++ technical judgment in public. Worth curating manually.
+-->
 
 ---
 
@@ -157,33 +155,8 @@ const loganathan = {
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/logusivam)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/logusivam26)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/logusivam26)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devbridge.onrender.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://loganathan-portfolio.onrender.com)
 
-</div>
-
----
-
-## 💭 Developer Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=logusivam&theme=tokyonight" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=logusivam&theme=tokyonight&utcOffset=5.5" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=logusivam&theme=tokyonight" width="48%"/>
 </div>
 
 ---
@@ -198,10 +171,10 @@ const loganathan = {
 
 <div align="center">
 
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+### 💡 _"Code is like humor. When you have to explain it, it's bad."_ — Cory House
 
-### 🌟 Thanks for visiting! Let's build something amazing together! 🚀
+**Thanks for visiting — let's build something great together.** 🚀
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=%3CKeep+Coding%2F%3E;%3CKeep+Learning%2F%3E;%3CStay+Curious%2F%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=%3CKeep+Coding%2F%3E;%3CKeep+Learning%2F%3E;%3CStay+Curious%2F%3E)](https://git.io/typing-svg)
 
 </div>
