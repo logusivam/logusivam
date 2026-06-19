@@ -190,17 +190,7 @@ const loganathan = {
 
 <div align="center">
 
-<a href="https://github.com/logusivam">
-  <img src="https://raw.githubusercontent.com/logusivam/logusivam/output/github-contribution-grid-snake-dark.svg" alt="Snake animation dark" onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/logusivam/logusivam/output/snake.svg';" />
-</a>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/logusivam/logusivam/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/logusivam/logusivam/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/logusivam/logusivam/output/snake.svg" width="95%" />
-</picture>
+<img src="https://raw.githubusercontent.com/logusivam/logusivam/output/snake.svg" alt="Snake animation" width="95%" />
 
 </div>
 
