@@ -89,20 +89,24 @@ const loganathan = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=logusivam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=logusivam&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27"/>
-</div>
 
-<br/>
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=logusivam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27" alt="GitHub Stats"/>
+</td>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logusivam&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages"/>
+</td>
+</tr>
+</table>
 
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=logusivam&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak"/>
-</div>
+<img src="https://streak-stats.demolab.com/?user=logusivam&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" width="80%"/>
 
-<br/>
+<br/><br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=logusivam&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=logusivam&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27" width="95%" alt="Activity Graph"/>
+
 </div>
 
 ---
@@ -122,23 +126,6 @@ const loganathan = {
 
 ---
 
-## 📺 Recent YouTube Content
-
-<div align="center">
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Exclusive Loot Offer #deals  on #flipkart  & #amazon #bigbilliondays2024 #greatindianfestivalsale !](https://ytcards.demolab.com/?id=rjCJic-HA7I&title=Exclusive+Loot+Offer+%23deals++on+%23flipkart++%26+%23amazon+%23bigbilliondays2024+%23greatindianfestivalsale+%21&lang=en&timestamp=1726916071&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Exclusive Loot Offer #deals  on #flipkart  & #amazon #bigbilliondays2024 #greatindianfestivalsale !")](https://www.youtube.com/shorts/rjCJic-HA7I)
-[![Daily CSS Quiz: Which Property Controls the Flow of Text on a Web Page?#dailychallenge #coding](https://ytcards.demolab.com/?id=X7HEnMJbZ1k&title=Daily+CSS+Quiz%3A+Which+Property+Controls+the+Flow+of+Text+on+a+Web+Page%3F%23dailychallenge+%23coding&lang=en&timestamp=1726137903&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Daily CSS Quiz: Which Property Controls the Flow of Text on a Web Page?#dailychallenge #coding")](https://www.youtube.com/shorts/X7HEnMJbZ1k)
-[![Daily CSS Quiz: How Can You Make a List Without Bullets? 🧠💻 #dailychallenge #codingchallenge](https://ytcards.demolab.com/?id=q7jfJ8QclsE&title=Daily+CSS+Quiz%3A+How+Can+You+Make+a+List+Without+Bullets%3F+%F0%9F%A7%A0%F0%9F%92%BB+%23dailychallenge+%23codingchallenge&lang=en&timestamp=1726055103&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Daily CSS Quiz: How Can You Make a List Without Bullets? 🧠💻 #dailychallenge #codingchallenge")](https://www.youtube.com/shorts/q7jfJ8QclsE)
-[![Daily CSS Quiz: Which Property Changes the Font of an Element? 🧠💻#dailychallenge #codingchallenge](https://ytcards.demolab.com/?id=9t-lTBBpI1U&title=Daily+CSS+Quiz%3A+Which+Property+Changes+the+Font+of+an+Element%3F+%F0%9F%A7%A0%F0%9F%92%BB%23dailychallenge+%23codingchallenge&lang=en&timestamp=1725968700&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Daily CSS Quiz: Which Property Changes the Font of an Element? 🧠💻#dailychallenge #codingchallenge")](https://www.youtube.com/shorts/9t-lTBBpI1U)
-[![Stunning Card UI #hovereffects  with Dynamic #content  Reveal | #html  & #css #tutorial #coding](https://ytcards.demolab.com/?id=lZfB8q8280g&title=Stunning+Card+UI+%23hovereffects++with+Dynamic+%23content++Reveal+%7C+%23html++%26+%23css+%23tutorial+%23coding&lang=en&timestamp=1725887828&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Stunning Card UI #hovereffects  with Dynamic #content  Reveal | #html  & #css #tutorial #coding")](https://www.youtube.com/shorts/lZfB8q8280g)
-[![Daily CSS Quiz: What Is the Default Value of the Position Property?#codingchallenge #dailychallenge](https://ytcards.demolab.com/?id=qT_qOuhpeCQ&title=Daily+CSS+Quiz%3A+What+Is+the+Default+Value+of+the+Position+Property%3F%23codingchallenge+%23dailychallenge&lang=en&timestamp=1725881434&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Daily CSS Quiz: What Is the Default Value of the Position Property?#codingchallenge #dailychallenge")](https://www.youtube.com/shorts/qT_qOuhpeCQ)
-<!-- END YOUTUBE-CARDS -->
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -147,10 +134,13 @@ const loganathan = {
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:LOGUSIVAM26@GMAIL.COM)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/logusivam26)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/logusivam26)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Logusivamacademy26)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100008730223597)
 
 </div>
+
+---
+
+## 💻 Coding Profiles
 
 <div align="center">
 
@@ -176,14 +166,22 @@ const loganathan = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=logusivam&theme=tokyonight" width="100%"/>
-</div>
 
-<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=logusivam&theme=tokyonight" width="95%" alt="Profile Details"/>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=logusivam&theme=tokyonight&utcOffset=5.5" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=logusivam&theme=tokyonight" width="48%"/>
+<br/><br/>
+
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=logusivam&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+</td>
+<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=logusivam&theme=tokyonight" alt="Repos per Language"/>
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
@@ -191,7 +189,19 @@ const loganathan = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/logusivam/logusivam/output/snake.svg" alt="Snake animation" />
+
+<a href="https://github.com/logusivam">
+  <img src="https://raw.githubusercontent.com/logusivam/logusivam/output/github-contribution-grid-snake-dark.svg" alt="Snake animation dark" onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/logusivam/logusivam/output/snake.svg';" />
+</a>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/logusivam/logusivam/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/logusivam/logusivam/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/logusivam/logusivam/output/snake.svg" width="95%" />
+</picture>
+
 </div>
 
 ---
