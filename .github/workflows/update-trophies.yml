@@ -2,7 +2,7 @@ name: Update Trophies
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs every day at midnight
+    - cron: '0 */3 * * *' # Runs every day at midnight
   workflow_dispatch: # Allows you to run it manually
 
 jobs:
