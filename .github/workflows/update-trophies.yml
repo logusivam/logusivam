@@ -29,6 +29,10 @@ jobs:
           output_path: ./trophy.svg
 
       - name: Commit and Push changes
+        env:
+          # Injecting your custom repository secrets into the step environment variables
+          MY_EMAIL: ${{ secrets.USER_EMAIL }}
+          MY_NAME: ${{ secrets.USER_NAME }}
         run: |
           git config --local user.email "$MY_EMAIL"
           git config --local user.name "$MY_NAME"
