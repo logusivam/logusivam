@@ -30,8 +30,8 @@ jobs:
 
       - name: Commit and Push changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "$MY_EMAIL"
+          git config --local user.name "$MY_NAME"
           git add trophy.svg
           git diff-index --quiet HEAD || git commit -m "Update profile trophies"
           git push
