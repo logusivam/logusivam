@@ -40,11 +40,11 @@ jobs:
           path: ./github-streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # 📈 NATIVE STEP 4: Independent Activity Graph Generation (Python Custom Script)
+      # 📈 NATIVE STEP 4: Independent Professional Activity Graph Generation (Python)
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-python-version: '3.x'
+          python-version: '3.x'
 
       - name: Generate Custom Activity Data SVG
         env:
@@ -52,7 +52,7 @@ jobs:
         shell: python
         run: |
           import os, requests, datetime
-          
+
           # 1. Fetch real contributions via GitHub GraphQL API
           headers = {"Authorization": f"Bearer {os.environ['G_TOKEN']}"}
           query = """
@@ -62,7 +62,7 @@ jobs:
                 contributionCalendar {
                   totalContributions
                   weeks {
-                    contributionDays { contributionCount date color }
+                    contributionDays { contributionCount date }
                   }
                 }
               }
@@ -71,26 +71,87 @@ jobs:
           """
           response = requests.post("https://api.github.com/graphql", json={"query": query, "variables": {"username": "logusivam"}}, headers=headers)
           data = response.json()['data']['user']['contributionsCollection']['contributionCalendar']
+
+          # Process the last 30 days of data
+          all_days = [day for week in data['weeks'] for day in week['contributionDays']]
+          days = all_days[-30:] if len(all_days) >= 30 else all_days
+
+          # 2. Setup Dimensions to exactly match the original layout layout
+          width, height = 800, 300
+          padding_left, padding_right = 60, 40
+          padding_top, padding_bottom = 80, 50
           
-          # 2. Programmatically draw an SVG string
-          svg_content = f'<svg xmlns="http://www.w3.org/2000/svg" width="400" height="120" viewBox="0 0 400 120">'
-          svg_content += '<rect width="100%" height="100%" fill="#1a1b27" rx="10"/>'
-          svg_content += f'<text x="20" y="30" fill="#7aa2f7" font-family="Arial" font-size="16" font-weight="bold">Activity Graph (Local Build)</text>'
-          svg_content += f'<text x="20" y="55" fill="#a9b1d6" font-family="Arial" font-size="13">Total Year Contributions: {data["totalContributions"]}</text>'
-          
-          # Basic sparkline rendering using fetched values
+          graph_width = width - padding_left - padding_right
+          graph_height = height - padding_top - padding_bottom
+
+          # Find max data value dynamically to scale nicely, default min baseline to 5
+          max_val = max([d['contributionCount'] for d in days] + [5])
+
+          # Calculate coordinate point arrays
           points = []
-          days = [day for week in data['weeks'] for day in week['contributionDays']][-30:] # Last 30 days
           for idx, day in enumerate(days):
-              x = 20 + (idx * 11)
-              y = 95 - (min(day['contributionCount'], 10) * 3) # capped scaler
-              points.append(f"{x},{y}")
-              
-          svg_content += f'<polyline fill="none" stroke="#79bbff" stroke-width="3" points="{" ".join(points)}"/>'
-          svg_content += '</svg>'
-          
-          with open("./activity-graph.svg", "w") as f:
-              f.write(svg_content)
+              x = padding_left + (idx * (graph_width / (len(days) - 1)))
+              # Invert Y axis since 0,0 is top-left in SVG space
+              y = padding_top + graph_height - (day['contributionCount'] * (graph_height / max_val))
+              points.append((x, y))
+
+          # 3. Create Bezier Smoothing Curve Path Control points
+          def get_smooth_path(pts):
+              if not pts: return ""
+              path_str = f"M {pts[0][0]:.1f},{pts[0][1]:.1f}"
+              for i in range(len(pts) - 1):
+                  p0, p1 = pts[i], pts[i+1]
+                  cp1_x = p0[0] + (p1[0] - p0[0]) / 2
+                  cp1_y = p0[1]
+                  cp2_x = p0[0] + (p1[0] - p0[0]) / 2
+                  cp2_y = p1[1]
+                  path_str += f" C {cp1_x:.1f},{cp1_y:.1f} {cp2_x:.1f},{cp2_y:.1f} {p1[0]:.1f},{p1[1]:.1f}"
+              return path_str
+
+          line_path = get_smooth_path(points)
+          # Close path back to baseline coordinates to construct the fill shape
+          area_path = f"{line_path} L {points[-1][0]:.1f},{padding_top + graph_height} L {points[0][0]:.1f},{padding_top + graph_height} Z"
+
+          # 4. Generate SVG output strings with exact Tokyo Night Style Tokens
+          svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}">
+            <style>
+              .title {{ font: bold 22px 'Segoe UI', Ubuntu, Sans-Serif; fill: #7aa2f7; }}
+              .subtitle {{ font: 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #565f89; }}
+              .axis-label {{ font: 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #565f89; }}
+              .grid-line {{ stroke: #24283b; stroke-width: 1; }}
+            </style>
+            
+            <rect width="100%" height="100%" fill="#1a1b27" rx="6" />
+            
+            <defs>
+              <linearGradient id="area-grad" x1="0" y1="0" x2="0" y2="1">
+                <stop offset="0%" stop-color="#7aa2f7" stop-opacity="0.5"/>
+                <stop offset="100%" stop-color="#7aa2f7" stop-opacity="0.0"/>
+              </linearGradient>
+            </defs>
+
+            <text x="35" y="45" class="title">Activity Graph</text>
+            <text x="765" y="45" text-anchor="end" class="subtitle">Total Contributions: {data["totalContributions"]}</text>
+
+            <line x1="{padding_left}" y1="{padding_top}" x2="{width - padding_right}" y2="{padding_top}" class="grid-line" />
+            <line x1="{padding_left}" y1="{padding_top + graph_height/2}" x2="{width - padding_right}" y2="{padding_top + graph_height/2}" class="grid-line" />
+            <line x1="{padding_left}" y1="{padding_top + graph_height}" x2="{width - padding_right}" y2="{padding_top + graph_height}" class="grid-line" />
+
+            <text x="{padding_left - 15}" y="{padding_top + 4}" text-anchor="end" class="axis-label">{int(max_val)}</text>
+            <text x="{padding_left - 15}" y="{padding_top + graph_height/2 + 4}" text-anchor="end" class="axis-label">{int(max_val/2)}</text>
+            <text x="{padding_left - 15}" y="{padding_top + graph_height + 4}" text-anchor="end" class="axis-label">0</text>
+
+            <path d="{area_path}" fill="url(#area-grad)" />
+            <path d="{line_path}" fill="none" stroke="#7aa2f7" stroke-width="3" stroke-linecap="round" />
+
+            <text x="{points[0][0]}" y="{padding_top + graph_height + 25}" text-anchor="middle" class="axis-label">{datetime.datetime.strptime(days[0]['date'], '%Y-%m-%d').strftime('%b %d')}</text>
+            <text x="{points[10][0]}" y="{padding_top + graph_height + 25}" text-anchor="middle" class="axis-label">{datetime.datetime.strptime(days[10]['date'], '%Y-%m-%d').strftime('%b %d')}</text>
+            <text x="{points[20][0]}" y="{padding_top + graph_height + 25}" text-anchor="middle" class="axis-label">{datetime.datetime.strptime(days[20]['date'], '%Y-%m-%d').strftime('%b %d')}</text>
+            <text x="{points[-1][0]}" y="{padding_top + graph_height + 25}" text-anchor="middle" class="axis-label">{datetime.datetime.strptime(days[-1]['date'], '%Y-%m-%d').strftime('%b %d')}</text>
+          </svg>'''
+
+          with open("./activity-graph.svg", "w", encoding="utf-8") as f:
+              f.write(svg)
 
       # 🚀 STEP 5: Consolidate, Commit and Push
       - name: Commit and Push changes
