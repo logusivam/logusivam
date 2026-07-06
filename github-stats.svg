@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Loganathan G P's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 59, Total Commits  : 1475, Total PRs: 77, Total Issues: 7, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 59, Total Commits  : 1480, Total PRs: 77, Total Issues: 7, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 132.33786192954184;
+        stroke-dashoffset: 132.28572895879984;
       }
     }
   
