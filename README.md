@@ -101,12 +101,15 @@ const loganathan = {
 </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com/?user=logusivam&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" width="80%"/>
+<div align="center">
+  <img src="./github-streak.svg" alt="GitHub Streak" width="80%"/>
+</div>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=logusivam&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27" width="95%" alt="Activity Graph"/>
-
+<div align="center">
+  <img src="./activity-graph.svg" width="95%" alt="Activity Graph"/>
+</div>
 </div>
 
 ---
