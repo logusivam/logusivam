@@ -46,6 +46,10 @@ jobs:
         with:
           python-version: '3.x'
 
+      # ◄ ADD THIS STEP RIGHT HERE TO SEED THE VIRTUAL MACHINE
+      - name: Install Runtime Dependencies
+        run: pip install requests
+
       - name: Generate Custom Activity Data SVG
         env:
           G_TOKEN: ${{ secrets.GITHUB_TOKEN }}
