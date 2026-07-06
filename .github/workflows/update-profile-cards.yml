@@ -1,0 +1,66 @@
+name: Update GitHub Profile Cards
+
+on:
+  schedule:
+    - cron: '0 */8 * * *' # Runs exactly 3 times a day (Every 8 hours)
+  workflow_dispatch: # Allows manual trigger via the Actions tab
+
+jobs:
+  refresh-profile-assets:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Critical for pushing files back to your repository
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # 📊 CARD 1: Core Profile Metrics
+      - name: Generate Local Stats Card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: 'username=logusivam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27'
+          path: ./github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 🔠 CARD 2: Language Distribution 
+      - name: Generate Local Top Languages Card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: 'username=logusivam&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27'
+          path: ./top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 🔥 CARD 3: GitHub Contribution Streak Stats
+      - name: Generate Local Streak Stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: 'user=logusivam&theme=tokyonight&hide_border=true&background=1a1b27'
+          path: ./github-streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 📈 CARD 4: Activity Distribution Graph
+      - name: Generate Local Activity Graph
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: repo # The local engine compiles repository distribution analytics here
+          options: 'username=logusivam&theme=tokyonight&hide_border=true&area=true&bg_color=1a1b27'
+          path: ./activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 🚀 STEP 5: Consolidate, Commit and Push
+      - name: Commit and Push changes
+        env:
+          MY_EMAIL: ${{ secrets.USER_EMAIL }}
+          MY_NAME: ${{ secrets.USER_NAME }}
+        run: |
+          git config --local user.email "$MY_EMAIL"
+          git config --local user.name "$MY_NAME"
+          
+          # Stage all newly compiled SVG vector files
+          git add github-stats.svg top-langs.svg github-streak.svg activity-graph.svg
+          
+          # Safely write the update log only if values shifted
+          git diff-index --quiet HEAD || git commit -m "chore: locally compile profile metrics and graphs"
+          git push
