@@ -92,12 +92,12 @@ const loganathan = {
 
 <table>
 <tr>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=logusivam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27" alt="GitHub Stats"/>
-</td>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logusivam&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages"/>
-</td>
+  <td width="50%" align="center">
+    <img src="./github-stats.svg" alt="GitHub Stats"/>
+  </td>
+  <td width="50%" align="center">
+    <img src="./top-langs.svg" alt="Top Languages"/>
+  </td>
 </tr>
 </table>
 
