@@ -14,7 +14,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # 📊 CARD 1: Core Profile Metrics
+      # 📊 CARD 1: Core Profile Metrics (Local Engine)
       - name: Generate Local Stats Card
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -23,7 +23,7 @@ jobs:
           path: ./github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # 🔠 CARD 2: Language Distribution 
+      # 🔠 CARD 2: Language Distribution (Local Engine)
       - name: Generate Local Top Languages Card
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -32,7 +32,7 @@ jobs:
           path: ./top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # 🔥 CARD 3: GitHub Contribution Streak Stats
+      # 🔥 CARD 3: GitHub Contribution Streak Stats (Local Engine)
       - name: Generate Local Streak Stats
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
@@ -40,14 +40,28 @@ jobs:
           path: ./github-streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # 📈 CARD 4: Activity Distribution Graph
+      # 📈 CARD 4: Activity Distribution Graph (Dedicated Local Action Fix)
       - name: Generate Local Activity Graph
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: Ashutosh00710/github-readme-activity-graph@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          card: repo # The local engine compiles repository distribution analytics here
-          options: 'username=logusivam&theme=tokyonight&hide_border=true&area=true&bg_color=1a1b27'
-          path: ./activity-graph.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: logusivam
+          THEME: tokyo-night
+          BACKGROUND_COLOR: 1a1b27
+          HIDE_BORDER: "true"
+          AREA: "true"
+          CUSTOM_TITLE: "Activity Graph"
+
+      # Since the activity action drops its output into a default filename,
+      # we handle moving it to match your custom README target structure seamlessly.
+      - name: Rename Activity Graph File
+        run: |
+          if [ -f "./profile-summary-card-output/github-readme-activity-graph.svg" ]; then
+            mv ./profile-summary-card-output/github-readme-activity-graph.svg ./activity-graph.svg
+          elif [ -f "./github-readme-activity-graph.svg" ]; then
+            mv ./github-readme-activity-graph.svg ./activity-graph.svg
+          fi
 
       # 🚀 STEP 5: Consolidate, Commit and Push
       - name: Commit and Push changes
