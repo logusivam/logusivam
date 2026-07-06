@@ -14,7 +14,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      # 📊 CARD 1: Core Profile Metrics (Local Engine)
+      # 📊 CARD 1: Core Profile Metrics
       - name: Generate Local Stats Card
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -23,7 +23,7 @@ jobs:
           path: ./github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # 🔠 CARD 2: Language Distribution (Local Engine)
+      # 🔠 CARD 2: Language Distribution 
       - name: Generate Local Top Languages Card
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -32,7 +32,7 @@ jobs:
           path: ./top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # 🔥 CARD 3: GitHub Contribution Streak Stats (Local Engine)
+      # 🔥 CARD 3: GitHub Contribution Streak Stats
       - name: Generate Local Streak Stats
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
@@ -40,9 +40,9 @@ jobs:
           path: ./github-streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # 📈 CARD 4: Activity Distribution Graph (Dedicated Local Action Fix)
+      # 📈 CARD 4: Activity Distribution Graph (Branch tag fixed to @main)
       - name: Generate Local Activity Graph
-        uses: Ashutosh00710/github-readme-activity-graph@master
+        uses: Ashutosh00710/github-readme-activity-graph@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
@@ -53,8 +53,7 @@ jobs:
           AREA: "true"
           CUSTOM_TITLE: "Activity Graph"
 
-      # Since the activity action drops its output into a default filename,
-      # we handle moving it to match your custom README target structure seamlessly.
+      # Normalizes output paths cleanly
       - name: Rename Activity Graph File
         run: |
           if [ -f "./profile-summary-card-output/github-readme-activity-graph.svg" ]; then
