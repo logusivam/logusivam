@@ -1,0 +1,41 @@
+name: Update GitHub Stats Cards
+
+on:
+  schedule:
+    - cron: '0 */8 * * *' # Runs exactly 3 times a day (Every 8 hours: 00:00, 08:00, 16:00 UTC)
+  workflow_dispatch: # Allows manual trigger via the Actions tab
+
+jobs:
+  refresh-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Critical for pushing files back to the repo
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Download Updated Stats SVG
+        run: |
+          # Pulls the fresh SVG card directly from the API service
+          curl -o ./github-stats.svg "https://github-readme-stats.vercel.app/api?username=logusivam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27"
+
+      - name: Download Updated Top Languages SVG
+        run: |
+          # Pulls the fresh language distribution card from the API service
+          curl -o ./top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=logusivam&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27"
+
+      - name: Commit and Push changes
+        env:
+          MY_EMAIL: ${{ secrets.USER_EMAIL }}
+          MY_NAME: ${{ secrets.USER_NAME }}
+        run: |
+          # Setting up Git identities from your repository secrets
+          git config --local user.email "$MY_EMAIL"
+          git config --local user.name "$MY_NAME"
+          
+          # Stage both generated SVG images
+          git add github-stats.svg top-langs.svg
+          
+          # Only commit and push if the underlying stats numbers actually shifted
+          git diff-index --quiet HEAD || git commit -m "chore: auto-update readme metrics cards"
+          git push
