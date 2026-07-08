@@ -1,0 +1,108 @@
+name: Update Daily Profile Quote
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs exactly once a day at midnight UTC
+  workflow_dispatch: # Allows manual trigger via the Actions tab
+
+jobs:
+  refresh-quote:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Critical for pushing the generated file back to your repo
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python Environment
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Compile Custom TokyoNight Quote Card
+        shell: python
+        run: |
+          import random
+
+          # Structured seed array housing system engineering and programming philosophy axioms
+          base_quotes = [
+              "Talk is cheap. Show me the code.",
+              "Programs must be written for people to read, and only incidentally for machines to execute.",
+              "Simplicity is the soul of efficiency.",
+              "Before software can be reusable it first has to be usable.",
+              "The best error message is the one that never shows up.",
+              "Make it work, make it right, make it fast.",
+              "Clean code always looks like it was written by someone who cares.",
+              "Amateurs hack systems. Professionals hack infrastructure layouts.",
+              "The central problem of computer science is managing technical complexity.",
+              "Refactoring is not a chore; it is an architectural investment.",
+              "Software design is a balancing act between clarity and scalability.",
+              "Do not optimize for runtime speed until you have optimized for code readability.",
+              "A system is only as reliable as its poorest automation scripts.",
+              "Architecture is about making the critical decisions clear from day one.",
+              "The most reliable component is the one that does not exist.",
+              "Great developers do not build features; they solve user friction blocks.",
+              "Code layout defines mental clarity.",
+              "Abstraction should clarify intent, not hide execution risks.",
+              "Testing catches syntax flaws; proper code review catches structural bugs.",
+              "Data rules the app. Compute is just transient state transformation."
+          ]
+
+          # Structural variation strings to scale data variations over 1000+ units
+          modifiers = [
+              "Always remember:", "In software development,", "At scale,", "When building systems,", 
+              "As a rule of thumb,", "For clean architectures,", "In production environments,", 
+              "To maintain velocity,", "In modern engineering,", "Every senior dev knows that"
+          ]
+          conclusions = [
+              "choose simplicity.", "plan before you compile.", "refactor mercilessly.", "test every path.",
+              "keep dependencies minimal.", "optimize the architecture first.", "document the exceptions.", 
+              "scale responsibly.", "prioritize system stability.", "write self-explanatory blocks."
+          ]
+
+          # Programmatically generate 1,000+ highly clean, unique, non-repeating tech combinations
+          quotes_pool = list(base_quotes)
+          for b in base_quotes:
+              for m in modifiers:
+                  for c in conclusions:
+                      quotes_pool.append(f"{m} {b.lower().rstrip('.')} — {c}")
+
+          # Draw a random quote out of the 1,000+ dynamic pool entries
+          selected_quote = random.choice(quotes_pool)
+          # Alternate author handling strictly using your targeted names
+          selected_author = random.choice(["Loganathan G P", "Logusivam vision"])
+
+          # Fixed Horizontal Viewport Matching the original layout dimensions
+          width, height = 800, 100
+
+          svg_quote = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}">
+            <style>
+              .quote-txt {{ font: italic 15px 'Segoe UI', Ubuntu, Sans-Serif; fill: #7aa2f7; }}
+              .author-txt {{ font: bold 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #565f89; }}
+              .symbol-decor {{ font: bold 45px 'Georgia', serif; fill: #24283b; opacity: 0.4; }}
+            </style>
+            
+            <rect width="100%" height="100%" fill="#1a1b27" rx="6" />
+            
+            <text x="20" y="55" class="symbol-decor">“</text>
+            
+            <text x="60" y="52" class="quote-txt">{selected_quote}</text>
+            
+            <text x="760" y="80" text-anchor="end" class="author-txt">- {selected_author}</text>
+          </svg>'''
+
+          with open("./profile-quote.svg", "w", encoding="utf-8") as f:
+              f.write(svg_quote)
+
+      # 🚀 STEP 5: Read Environment Secrets, Commit and Push Overwrite Changes
+      - name: Commit and Push changes
+        env:
+          MY_EMAIL: ${{ secrets.USER_EMAIL }}
+          MY_NAME: ${{ secrets.USER_NAME }}
+        run: |
+          git config --local user.email "$MY_EMAIL"
+          git config --local user.name "$MY_NAME"
+          
+          git add profile-quote.svg
+          git diff-index --quiet HEAD || git commit -m "chore: cycle dynamic daily profile quote card"
+          git push
