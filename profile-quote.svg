@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="100" viewBox="0 0 800 100">
+  <style>
+    .quote-txt { font: italic 15px 'Segoe UI', Ubuntu, Sans-Serif; fill: #7aa2f7; }
+    .author-txt { font: bold 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #565f89; }
+    .symbol-decor { font: bold 45px 'Georgia', serif; fill: #24283b; opacity: 0.4; }
+  </style>
+  
+  <rect width="100%" height="100%" fill="#1a1b27" rx="6" />
+  
+  <text x="20" y="55" class="symbol-decor">“</text>
+  
+  <text x="60" y="52" class="quote-txt">Abstraction should clarify intent, not hide execution risks.</text>
+  
+  <text x="760" y="80" text-anchor="end" class="author-txt">- Logusivam vision</text>
+</svg>
