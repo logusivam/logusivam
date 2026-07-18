@@ -9,7 +9,7 @@
   
   <text x="20" y="55" class="symbol-decor">“</text>
   
-  <text x="60" y="52" class="quote-txt">When building systems, amateurs hack systems. professionals hack infrastructure layouts — keep dependencies minimal.</text>
+  <text x="60" y="52" class="quote-txt">To maintain velocity, software design is a balancing act between clarity and scalability — optimize the architecture first.</text>
   
-  <text x="760" y="80" text-anchor="end" class="author-txt">- Loganathan G P</text>
+  <text x="760" y="80" text-anchor="end" class="author-txt">- Logusivam vision</text>
 </svg>
