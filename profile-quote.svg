@@ -9,7 +9,7 @@
   
   <text x="20" y="55" class="symbol-decor">“</text>
   
-  <text x="60" y="52" class="quote-txt">Every senior dev knows that the best error message is the one that never shows up — scale responsibly.</text>
+  <text x="60" y="52" class="quote-txt">For clean architectures, a system is only as reliable as its poorest automation scripts — plan before you compile.</text>
   
   <text x="760" y="80" text-anchor="end" class="author-txt">- Loganathan G P</text>
 </svg>
