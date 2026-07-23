@@ -2,8 +2,8 @@ name: Update Trophies
 
 on:
   schedule:
-    - cron: '0 */3 * * *' # Runs every day at midnight
-  workflow_dispatch: # Allows you to run it manually
+    - cron: '0 */3 * * *' # Runs every 3 hours
+  workflow_dispatch: # Allows manual trigger via the Actions tab
 
 jobs:
   update-readme:
@@ -14,28 +14,114 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Generate Trophies
-        uses: ryo-ma/github-profile-trophy@master
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          username: logusivam
-          token: ${{ secrets.GITHUB_TOKEN }}
-          theme: tokyonight
-          no-frame: true
-          no-bg: false
-          column: 7
-          row: 1
-          margin-w: 15
-          margin-h: 15
-          output_path: ./trophy.svg
+          python-version: '3.x'
 
+      - name: Install Dependencies
+        run: pip install requests
+
+      # 🏆 NATIVE STEP: Calculate Trophies & Render TokyoNight SVG
+      - name: Generate Custom Trophies SVG
+        env:
+          G_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        shell: python
+        run: |
+          import os, requests
+
+          # 1. Fetch user metrics directly from GitHub GraphQL API
+          headers = {"Authorization": f"Bearer {os.environ['G_TOKEN']}"}
+          query = """
+          query($username: String!) {
+            user(login: $username) {
+              repositories(first: 100, ownerAffiliations: OWNER) {
+                totalCount
+                nodes {
+                  stargazerCount
+                }
+              }
+              contributionsCollection {
+                totalCommitContributions
+                totalPullRequestContributions
+                totalIssueContributions
+              }
+              followers {
+                totalCount
+              }
+            }
+          }
+          """
+          response = requests.post("https://api.github.com/graphql", json={"query": query, "variables": {"username": "logusivam"}}, headers=headers)
+          data = response.json()['data']['user']
+
+          # 2. Extract metrics
+          total_repos = data['repositories']['totalCount']
+          total_stars = sum(repo['stargazerCount'] for repo in data['repositories']['nodes'])
+          total_commits = data['contributionsCollection']['totalCommitContributions']
+          total_prs = data['contributionsCollection']['totalPullRequestContributions']
+          total_issues = data['contributionsCollection']['totalIssueContributions']
+          total_followers = data['followers']['totalCount']
+
+          # 3. Define Trophies based on score thresholds
+          def get_rank(val, thresholds):
+              if val >= thresholds[3]: return "SECRET", "#ff79c6"
+              if val >= thresholds[2]: return "GOLD", "#f1fa8c"
+              if val >= thresholds[1]: return "SILVER", "#bd93f9"
+              if val >= thresholds[0]: return "BRONZE", "#ffb86c"
+              return "C", "#6272a4"
+
+          trophies_config = [
+              {"name": "Commits", "val": total_commits, "levels": [10, 100, 500, 1000], "icon": "⚡"},
+              {"name": "Repos", "val": total_repos, "levels": [5, 10, 25, 50], "icon": "📦"},
+              {"name": "Stars", "val": total_stars, "levels": [1, 10, 50, 100], "icon": "⭐"},
+              {"name": "PRs", "val": total_prs, "levels": [1, 10, 25, 50], "icon": "🔀"},
+              {"name": "Issues", "val": total_issues, "levels": [1, 10, 25, 50], "icon": "🎯"},
+              {"name": "Followers", "val": total_followers, "levels": [1, 10, 25, 50], "icon": "👥"},
+          ]
+
+          # 4. Render TokyoNight Trophy SVG Layout
+          card_width = 750
+          card_height = 110
+          item_width = 110
+          start_x = 20
+
+          svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{card_width}" height="{card_height}" viewBox="0 0 {card_width} {card_height}">
+            <style>
+              .trophy-title {{ font: bold 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #a9b1d6; text-anchor: middle; }}
+              .trophy-rank {{ font: bold 12px 'Segoe UI', Ubuntu, Sans-Serif; text-anchor: middle; }}
+              .trophy-val {{ font: bold 10px 'Segoe UI', Ubuntu, Sans-Serif; fill: #565f89; text-anchor: middle; }}
+            </style>
+            <rect width="100%" height="100%" fill="#1a1b27" rx="6" />
+          '''
+
+          for idx, t in enumerate(trophies_config):
+              rank, color = get_rank(t['val'], t['levels'])
+              cx = start_x + (idx * 120) + (item_width / 2)
+              
+              svg += f'''
+              <g transform="translate({start_x + (idx * 120)}, 10)">
+                <rect width="{item_width}" height="90" fill="#16161e" rx="6" stroke="{color}" stroke-width="1.5" />
+                <text x="{item_width/2}" y="22" class="trophy-title">{t['name']}</text>
+                <text x="{item_width/2}" y="48" font-size="20" text-anchor="middle">{t['icon']}</text>
+                <text x="{item_width/2}" y="68" class="trophy-rank" fill="{color}">{rank}</text>
+                <text x="{item_width/2}" y="82" class="trophy-val">{t['val']}</text>
+              </g>
+              '''
+
+          svg += '</svg>'
+
+          with open("./trophy.svg", "w", encoding="utf-8") as f:
+              f.write(svg)
+
+      # 🚀 STEP: Commit & Push to Repository
       - name: Commit and Push changes
         env:
-          # Injecting your custom repository secrets into the step environment variables
           MY_EMAIL: ${{ secrets.USER_EMAIL }}
           MY_NAME: ${{ secrets.USER_NAME }}
         run: |
           git config --local user.email "$MY_EMAIL"
           git config --local user.name "$MY_NAME"
           git add trophy.svg
-          git diff-index --quiet HEAD || git commit -m "Update profile trophies"
+          git diff-index --quiet HEAD || git commit -m "chore: auto-update local trophies"
           git push
