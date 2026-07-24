@@ -9,7 +9,7 @@
   
   <text x="20" y="55" class="symbol-decor">“</text>
   
-  <text x="60" y="52" class="quote-txt">Every senior dev knows that make it work, make it right, make it fast — test every path.</text>
+  <text x="60" y="52" class="quote-txt">To maintain velocity, amateurs hack systems. professionals hack infrastructure layouts — document the exceptions.</text>
   
   <text x="760" y="80" text-anchor="end" class="author-txt">- Loganathan G P</text>
 </svg>
