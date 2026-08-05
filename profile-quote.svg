@@ -9,7 +9,7 @@
   
   <text x="20" y="55" class="symbol-decor">“</text>
   
-  <text x="60" y="52" class="quote-txt">Every senior dev knows that the central problem of computer science is managing technical complexity — choose simplicity.</text>
+  <text x="60" y="52" class="quote-txt">For clean architectures, a system is only as reliable as its poorest automation scripts — test every path.</text>
   
   <text x="760" y="80" text-anchor="end" class="author-txt">- Logusivam vision</text>
 </svg>
