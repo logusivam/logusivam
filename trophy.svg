@@ -7,11 +7,11 @@
   <rect width="100%" height="100%" fill="#1a1b27" rx="6" />
 
     <g transform="translate(20, 10)">
-      <rect width="110" height="90" fill="#16161e" rx="6" stroke="#f1fa8c" stroke-width="1.5" />
+      <rect width="110" height="90" fill="#16161e" rx="6" stroke="#ff79c6" stroke-width="1.5" />
       <text x="55.0" y="22" class="trophy-title">Commits</text>
       <text x="55.0" y="48" font-size="20" text-anchor="middle">⚡</text>
-      <text x="55.0" y="68" class="trophy-rank" fill="#f1fa8c">GOLD</text>
-      <text x="55.0" y="82" class="trophy-val">999</text>
+      <text x="55.0" y="68" class="trophy-rank" fill="#ff79c6">SECRET</text>
+      <text x="55.0" y="82" class="trophy-val">1000</text>
     </g>
     
     <g transform="translate(140, 10)">
