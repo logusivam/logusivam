@@ -9,7 +9,7 @@
   
   <text x="20" y="55" class="symbol-decor">“</text>
   
-  <text x="60" y="52" class="quote-txt">As a rule of thumb, do not optimize for runtime speed until you have optimized for code readability — document the exceptions.</text>
+  <text x="60" y="52" class="quote-txt">To maintain velocity, data rules the app. compute is just transient state transformation — test every path.</text>
   
   <text x="760" y="80" text-anchor="end" class="author-txt">- Logusivam vision</text>
 </svg>
