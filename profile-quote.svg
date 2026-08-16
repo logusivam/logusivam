@@ -9,7 +9,7 @@
   
   <text x="20" y="55" class="symbol-decor">“</text>
   
-  <text x="60" y="52" class="quote-txt">To maintain velocity, talk is cheap. show me the code — document the exceptions.</text>
+  <text x="60" y="52" class="quote-txt">In software development, great developers do not build features; they solve user friction blocks — plan before you compile.</text>
   
   <text x="760" y="80" text-anchor="end" class="author-txt">- Logusivam vision</text>
 </svg>
