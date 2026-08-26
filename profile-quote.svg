@@ -9,7 +9,7 @@
   
   <text x="20" y="55" class="symbol-decor">“</text>
   
-  <text x="60" y="52" class="quote-txt">At scale, the best error message is the one that never shows up — refactor mercilessly.</text>
+  <text x="60" y="52" class="quote-txt">To maintain velocity, abstraction should clarify intent, not hide execution risks — document the exceptions.</text>
   
   <text x="760" y="80" text-anchor="end" class="author-txt">- Logusivam vision</text>
 </svg>
