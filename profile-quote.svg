@@ -9,7 +9,7 @@
   
   <text x="20" y="55" class="symbol-decor">“</text>
   
-  <text x="60" y="52" class="quote-txt">Every senior dev knows that data rules the app. compute is just transient state transformation — document the exceptions.</text>
+  <text x="60" y="52" class="quote-txt">At scale, make it work, make it right, make it fast — scale responsibly.</text>
   
-  <text x="760" y="80" text-anchor="end" class="author-txt">- Loganathan G P</text>
+  <text x="760" y="80" text-anchor="end" class="author-txt">- Logusivam vision</text>
 </svg>
