@@ -9,7 +9,7 @@
   
   <text x="20" y="55" class="symbol-decor">“</text>
   
-  <text x="60" y="52" class="quote-txt">Architecture is about making the critical decisions clear from day one.</text>
+  <text x="60" y="52" class="quote-txt">To maintain velocity, the central problem of computer science is managing technical complexity — test every path.</text>
   
   <text x="760" y="80" text-anchor="end" class="author-txt">- Loganathan G P</text>
 </svg>
